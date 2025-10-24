@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Anthony Bradt @aajjbb613  
-- 👀 I’m interested in Workplace Automation  
-- 🌱 I’m currently learning K8s & CTF
-- 💞️ I’m looking to collaborate on IT contracts for small to med businesses  
+- 👀 Interested in Workplace Automation  
+- 🌱 Currently learning K8s & CTF
+- 💞️ Looking to collaborate on IT contracts for small to med businesses  
 - 📫 How to reach me: **anthonybradt613@gmail.com**
 
 ---
