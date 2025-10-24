@@ -1,3 +1,5 @@
+<!--- Look at this 1337 H4X0R reading the comments --->
+
 - 👋 Hi, I’m Anthony Bradt @aajjbb613  
 - 👀 Interested in Workplace Automation  
 - 🌱 Currently learning K8s & CTF
